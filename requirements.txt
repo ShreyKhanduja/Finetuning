@@ -1,0 +1,14 @@
+# Core dependencies for train.py
+
+datasets>=2.20.0
+colorama>=0.4.6
+python-dotenv>=1.0.1
+transformers>=4.45.0
+trl>=0.12.0
+peft>=0.13.0
+accelerate>=0.34.0
+bitsandbytes>=0.44.1
+torch>=2.3.0
+
+# If you are on Windows with CUDA, install the matching PyTorch CUDA wheel separately:
+# pip install torch --index-url https://download.pytorch.org/whl/cu121

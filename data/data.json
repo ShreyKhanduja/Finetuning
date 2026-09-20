@@ -1,0 +1,36 @@
+[
+  {
+    "question": "Who is the lawful owner of the mentioned property?",
+    "answer": "Mr. Kumar"
+  },
+  {
+    "question": "What is the purpose of this NOC?",
+    "answer": "To certify that Mr.  Kumar has rented out his flat  for residential purposes."
+  },
+  {
+    "question": "What is the address of the property mentioned in this NOC?",
+    "answer": "PII data"
+  },
+  {
+    "question": "Who are the tenants residing at the said property according to this NOC?",
+    "answer": "The tenants mentioned in the rental agreement."
+  },
+  {
+    "question": "What is the purpose of the tenancy mentioned in this NOC?",
+    "answer": "Residential purposes."
+  },
+  { "question": "Who is the tenant in this NOC?", "answer": "Shrey Khanduja" },
+  {
+    "question": "What is the primary purpose of this No Objection Certificate (NOC)?",
+    "answer": "The purpose mentioned here is for police verification, society submission, or employment record."
+  },
+  { "question": "Who issued this NOC?", "answer": "Mr. Kumar" },
+  {
+    "question": "What is the mobile number of Kumar as provided in this document?",
+    "answer": "PII data"
+  },
+  {
+    "question": "Where does Kumar reside, according to his address mentioned here?",
+    "answer": "PII data"
+  }
+]
