@@ -13,16 +13,6 @@ A fine-tuning pipeline for training Meta Llama 3.2 1B to extract information fro
 - TRL SFTTrainer.
 - Gradient checkpointing support.
 
-## Project Structure
-
-├── train.py
-├── data/
-│   └── data.json
-├── model/
-├── finetuned/
-├── complete_checkpoint1/
-├── final_model1/
-└── .env
 
 ## Requirements
 
